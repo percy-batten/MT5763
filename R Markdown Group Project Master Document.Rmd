@@ -1,0 +1,62 @@
+---
+title: "MT5763 Group Project"
+author: "Lanark"
+date: "`r Sys.Date()`"
+output: html_document
+---
+This is the R markdown document for the MT5763 Group project.
+This so far is a brief document with sections for each of the tasks to allow people to work
+on their code by pulling this document, submitting commits and pushing to the global repository. 
+Please be aware of other people working on it at the same time. Please save, commit and push changes after finishing working on your section and pull before you being work on a section. 
+
+Conflicts have to be resolved manually, being generally aware of what your teammates are working on is useful for this, for example if your both working on the same question on the same lines of code it will create conflicts which you'll have to resolve manually. 
+
+The shiny app coding section will be in a different repository as required by the marking scheme. 
+The shiny app section for this document is for the group report and thus will not include a code chunk initially although if your working on it feel free to add one if you wish. 
+
+Section 1 Shiny App. 
+
+
+
+
+
+
+
+
+Section 2 Bootstrap
+
+```{r}
+# Space for R code.
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+Section 3 Jackknife
+```{r}
+#Space for R code. 
+
+
+
+
+
+
+
+
+
+
+```
+
